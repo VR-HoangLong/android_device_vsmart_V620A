@@ -11,9 +11,9 @@ ro.product.cuptsm=MEIZU|ESE|01|02|80T
  #IOP properties
 vendor.iop.enable_uxe=0
 
-#Camera_Edit herongfeng@meizu.com modify
+#Camera_Edit HoangLong_VN modify
 ro.vendor.camera.no_vts=1
-vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.meizu.bspqa.camera,com.meizu.media.camera
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.vinsmart.camera,com.vinsmart.camera.debug
 #Camera_Edit end
 
 #FLYME_MMF_VIDEO:hvx hwjpeg{@
